@@ -8,5 +8,5 @@ It is Console Based Project Using OOPS concepts in java. it have 3 sections
 # How this code will Run
 
 1 . save this all files in one folder.
-2 . open java compiler and type javac UnifiedTravelFinanceHub.java.
-3 . Type java UnifiedTravelFinanceHub and then you will show our project will work.
+2 . open java compiler and type javac MultiBook Console.java.
+3 . Type java MultiBook Console and then you will show our project will work.
